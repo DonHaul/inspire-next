@@ -1,0 +1,195 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Abud et~al.(2022)]{protoduneDetector}
+A.~Abed Abud et~al.
+\newblock {Design, construction and operation of the ProtoDUNE-SP Liquid Argon
+  TPC}.
+\newblock \emph{JINST}, 17\penalty0 (01):\penalty0 P01005, 2022.
+\newblock \doi{10.1088/1748-0221/17/01/p01005}.
+\newblock URL \url{https://doi.org/10.1088/1748-0221/17/01/p01005}.
+
+\bibitem[Abi et~al.(2020{\natexlab{a}})]{dunetdr_v1}
+B.~Abi et~al.
+\newblock {Deep Underground Neutrino Experiment (DUNE), Far Detector Technical
+  Design Report, Volume I Introduction to DUNE}.
+\newblock \emph{JINST}, 15\penalty0 (08):\penalty0 T08008, 2020{\natexlab{a}}.
+\newblock \doi{10.1088/1748-0221/15/08/T08008}.
+
+\bibitem[Abi et~al.(2020{\natexlab{b}})]{dunetdr_v4}
+B.~Abi et~al.
+\newblock {Deep Underground Neutrino Experiment (DUNE), Far Detector Technical
+  Design Report, Volume IV: Far Detector Single-phase Technology}.
+\newblock \emph{JINST}, 15\penalty0 (08):\penalty0 T08010, 2020{\natexlab{b}}.
+\newblock \doi{10.1088/1748-0221/15/08/T08010}.
+
+\bibitem[Abi et~al.(2020{\natexlab{c}})]{proto_performance}
+B.~Abi et~al.
+\newblock {First results on ProtoDUNE-SP liquid argon time projection chamber
+  performance from a beam test at the CERN Neutrino Platform}.
+\newblock \emph{JINST}, 15\penalty0 (12):\penalty0 P12004, 2020{\natexlab{c}}.
+\newblock \doi{10.1088/1748-0221/15/12/P12004}.
+
+\bibitem[Marshall and Thomson(2015)]{pandorasdk}
+J.~S. Marshall and M.~A. Thomson.
+\newblock {The Pandora Software Development Kit for Pattern Recognition}.
+\newblock \emph{Eur. Phys. J.}, C75\penalty0 (9):\penalty0 439, 2015.
+\newblock \doi{10.1140/epjc/s10052-015-3659-3}.
+
+\bibitem[Thomson(2009)]{pandorailc}
+M.A. Thomson.
+\newblock Particle flow calorimetry and the pandorapfa algorithm.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  611\penalty0 (1):\penalty0 25--40, 2009.
+\newblock ISSN 0168-9002.
+\newblock \doi{https://doi.org/10.1016/j.nima.2009.09.009}.
+
+\bibitem[Marshall et~al.(2013)Marshall, M\"unnich, and Thomson]{pandoraclic}
+J.S. Marshall, A.~M\"unnich, and M.A. Thomson.
+\newblock Performance of particle flow calorimetry at clic.
+\newblock \emph{Nuclear Instruments and Methods in Physics Research Section A:
+  Accelerators, Spectrometers, Detectors and Associated Equipment},
+  700:\penalty0 153--162, 2013.
+\newblock ISSN 0168-9002.
+\newblock \doi{https://doi.org/10.1016/j.nima.2012.10.038}.
+
+\bibitem[Acciarri et~al.(2018)]{pandorauboone}
+R.~Acciarri et~al.
+\newblock {The Pandora multi-algorithm approach to automated pattern
+  recognition of cosmic-ray muon and neutrino events in the MicroBooNE
+  detector}.
+\newblock \emph{Eur. Phys. J.}, C78\penalty0 (1):\penalty0 82, 2018.
+\newblock \doi{10.1140/epjc/s10052-017-5481-6}.
+
+\bibitem[Breiman et~al.(1984)Breiman, Friedman, Olshen, and Stone]{bdtOriginal}
+L.~Breiman, J.H. Friedman, R.A. Olshen, and C.J. Stone.
+\newblock \emph{{Classification And Regression Trees}}.
+\newblock Wadsworth, Stamford, 1984.
+
+\bibitem[Schapire(1990)]{bdtBoost}
+R.~E. Schapire.
+\newblock The strength of weak learnability.
+\newblock \emph{Machine Learning}, 5\penalty0 (2):\penalty0 197--227, 1990.
+\newblock \doi{10.1007/BF00116037}.
+
+\bibitem[Cortes and Vapnik(1995)]{cortes1995support}
+C.~Cortes and V.~Vapnik.
+\newblock Support-vector networks.
+\newblock \emph{Machine learning}, 20\penalty0 (3):\penalty0 273--297, 1995.
+\newblock \doi{https://doi.org/10.1007/BF00994018}.
+
+\bibitem[Charitonidis and Efthymiopoulos(2017)]{PhysRevAccelBeams.20.111001}
+N.~Charitonidis and I.~Efthymiopoulos.
+\newblock {Low energy tertiary beam line design for the CERN neutrino platform
+  project}.
+\newblock \emph{Phys. Rev. Accel. Beams}, 20:\penalty0 111001, Nov 2017.
+\newblock \doi{10.1103/PhysRevAccelBeams.20.111001}.
+
+\bibitem[Booth et~al.(2019)Booth, Charitonidis, Chatzidaki, Karyotakis, Nowak,
+  Ortega-Ruiz, Rosenthal, and Sala]{PhysRevAccelBeams.22.061003}
+A.~C. Booth, N.~Charitonidis, P.~Chatzidaki, Y.~Karyotakis, E.~Nowak,
+  I.~Ortega-Ruiz, M.~Rosenthal, and P.~Sala.
+\newblock Particle production, transport, and identification in the regime of
+  $1\ensuremath{-}7\text{ }\text{ }\mathrm{GeV}/c$.
+\newblock \emph{Phys. Rev. Accel. Beams}, 22:\penalty0 061003, Jun 2019.
+\newblock \doi{10.1103/PhysRevAccelBeams.22.061003}.
+
+\bibitem[Abi et~al.(2017)]{pdtdr}
+B.~Abi et~al.
+\newblock {The Single-Phase ProtoDUNE Technical Design Report}.
+\newblock arXiv:1706.07081 [physics.ins-det], 2017.
+
+\bibitem[Abi et~al.(2020{\natexlab{d}})]{dune_sense}
+B.~Abi et~al.
+\newblock {Long-baseline neutrino oscillation physics potential of the DUNE
+  experiment}.
+\newblock \emph{Eur. Phys. J. C}, 80\penalty0 (10):\penalty0 978,
+  2020{\natexlab{d}}.
+\newblock \doi{10.1140/epjc/s10052-020-08456-z}.
+
+\bibitem[Qian et~al.(2018)Qian, Zhang, Viren, and Diwan]{wirecell}
+X.~Qian, C.~Zhang, B.~Viren, and M.~Diwan.
+\newblock {Three-dimensional Imaging for Large LArTPCs}.
+\newblock \emph{JINST}, 13\penalty0 (05):\penalty0 P05032, 2018.
+\newblock \doi{10.1088/1748-0221/13/05/P05032}.
+
+\bibitem[Adams et~al.(2018)]{uBooNESignal}
+C.~Adams et~al.
+\newblock {Ionization electron signal processing in single phase LArTPCs. Part
+  I. Algorithm Description and quantitative evaluation with MicroBooNE
+  simulation}.
+\newblock \emph{JINST}, 13\penalty0 (07):\penalty0 P07006, 2018.
+\newblock \doi{10.1088/1748-0221/13/07/P07006}.
+
+\bibitem[Abratenko et~al.(2021)]{ubLight1}
+P.~Abratenko et~al.
+\newblock {Neutrino event selection in the MicroBooNE liquid argon time
+  projection chamber using Wire-Cell 3D imaging, clustering, and charge-light
+  matching}.
+\newblock \emph{JINST}, 16\penalty0 (06):\penalty0 P06043, 2021.
+\newblock \doi{10.1088/1748-0221/16/06/P06043}.
+
+\bibitem[Caratelli(2020)]{ubLight2}
+D.~Caratelli.
+\newblock {Neutrino identification with scintillation light in MicroBooNE}.
+\newblock \emph{JINST}, 15\penalty0 (03):\penalty0 C03023, 2020.
+\newblock \doi{10.1088/1748-0221/15/03/C03023}.
+
+\bibitem[Yang(2021)]{ionDrift}
+T.~Yang.
+\newblock Calibration of calorimetric measurement in a liquid argon time
+  projection chamber.
+\newblock \emph{Instruments}, 5\penalty0 (1), 2021.
+\newblock ISSN 2410-390X.
+
+\bibitem[Abratenko et~al.(2020)]{spacecharge}
+P.~Abratenko et~al.
+\newblock Measurement of space charge effects in the {MicroBooNE} {LArTPC}
+  using cosmic muons.
+\newblock \emph{JINST}, 15\penalty0 (12):\penalty0 P12037--P12037, 2020.
+\newblock \doi{10.1088/1748-0221/15/12/p12037}.
+
+\bibitem[Abi et~al.(2020{\natexlab{e}})]{dunetdr_v2}
+Babak Abi et~al.
+\newblock {Deep Underground Neutrino Experiment (DUNE), Far Detector Technical
+  Design Report, Volume II: DUNE Physics}.
+\newblock 2020{\natexlab{e}}.
+
+\bibitem[Heck et~al.(1998)Heck, Knapp, Capdevielle, Schatz, and Thouw]{corsika}
+D.~Heck, J.~Knapp, J.~N. Capdevielle, G.~Schatz, and T.~Thouw.
+\newblock {CORSIKA: A Monte Carlo code to simulate extensive air showers},
+  1998.
+\newblock Report Number FKZA-6019.
+
+\bibitem[Church(2013)]{Church:2013hea}
+E.~D. Church.
+\newblock {LArSoft: A Software Package for Liquid Argon Time Projection Drift
+  Chambers}.
+\newblock arXiv:1311.6774 [physics.ins-det], 2013.
+
+\bibitem[Clopper and Pearson(1934)]{clopperPearson}
+C.~J. Clopper and E.~S. Pearson.
+\newblock {The use of Confidence or Fiducial Limits Illustrated in the Case of
+  the Binomial}.
+\newblock \emph{Biometrika}, 26\penalty0 (4):\penalty0 404--413, 12 1934.
+\newblock ISSN 0006-3444.
+\newblock \doi{10.1093/biomet/26.4.404}.
+
+\bibitem[Gramellini(2018)]{Gramellini:2018mjg}
+Elena Gramellini.
+\newblock \emph{{Measurement of the Negative Pion and Positive Kaon Total
+  Hadronic Cross Sections on Argon at the LArIAT Experiment}}.
+\newblock PhD thesis, Yale U., 2018.
+
+\bibitem[Gramellini et~al.(2021)]{LArIAT:2021yix}
+Elena Gramellini et~al.
+\newblock {Measurement of the ($\pi^-$, Ar) total hadronic cross section at the
+  LArIAT experiment}.
+\newblock arXiv:2108.00040 [physics.ins-det], 7 2021.
+
+\end{thebibliography}
